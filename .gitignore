@@ -1,0 +1,13 @@
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.packages
+**/node_modules/
+**/dist/
+.env
+infra/postgres-data/
+infra/synapse-data/
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
